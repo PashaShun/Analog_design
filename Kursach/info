@@ -1,0 +1,81 @@
+{
+  "uuid": "50b5ffb05a039f56c995db488d78ba2d",
+  "path": "Offline/rightnow",
+  "name": "rightnow",
+  "content": "",
+  "created_at": "2020-06-02 04:22:25",
+  "updated_at": "2020-06-02 06:38:18",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "ec84aec2a4b9af9d2cedbd80f92e24b0",
+      "puuid": "50b5ffb05a039f56c995db488d78ba2d",
+      "title": "NEW_PCB",
+      "filename": "NEW_PCB.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "de8599bb99f14253b8909bb7e603a704": 1,
+        "1bf59dff03ec4233aa077dc7cf0e92a1": 9,
+        "2b2a7bab00354c19b76a8043f7520dcf": 5,
+        "7d3c1df5d4454cd8aee7ccb243d15ee6": 1,
+        "948e610cffd14df79f04c73832b1409b": 1,
+        "7b085ca9f76c4e2bbf602ce48d179b2a": 1,
+        "f9b6c4acbda64b569861a21e133c291c": 1,
+        "428345be97be45ac9eb2f512a8c4c20b": 1,
+        "3a9291ac784b477889c6bb2f0d842699": 1
+      },
+      "BOM": [],
+      "updateTime": 1591060946,
+      "createTime": 1591060946,
+      "histories": [],
+      "created_at": "2020-06-02 04:22:26",
+      "updated_at": "2020-06-02 04:22:26"
+    },
+    {
+      "uuid": "8ebfcb81a750ce62f531e5156d6f6a7e",
+      "puuid": "50b5ffb05a039f56c995db488d78ba2d",
+      "title": "goodboi",
+      "filename": "goodboi.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "de8599bb99f14253b8909bb7e603a704": 1,
+        "1bf59dff03ec4233aa077dc7cf0e92a1": 15,
+        "2b2a7bab00354c19b76a8043f7520dcf": 8,
+        "7d3c1df5d4454cd8aee7ccb243d15ee6": 1,
+        "948e610cffd14df79f04c73832b1409b": 1,
+        "7b085ca9f76c4e2bbf602ce48d179b2a": 1,
+        "f9b6c4acbda64b569861a21e133c291c": 1,
+        "428345be97be45ac9eb2f512a8c4c20b": 1,
+        "3a9291ac784b477889c6bb2f0d842699": 1,
+        "be785b1050bb4239bdf7b27385a35569": 1,
+        "ecf8ab24f9804075b771dbb58155c821": 2,
+        "ae396e5122294f509a61d5d9f50fde0e": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ]
+      ],
+      "updateTime": 1591069098,
+      "createTime": 1591069098,
+      "histories": [],
+      "created_at": "2020-06-02 06:38:18",
+      "updated_at": "2020-06-02 06:38:18"
+    }
+  ],
+  "sort": [],
+  "title": "rightnow",
+  "foldername": "rightnow",
+  "schfilename": "rightnow.json",
+  "schfilemtime": 1591060945867.4766
+}
